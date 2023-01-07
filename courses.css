@@ -1,0 +1,43 @@
+.portfolio-text {
+    padding: 10px 30px 30px 30px !important;
+}
+.portfolio-grid-basic .grid-item {
+    font-size: 14px;
+    margin: 15px 0 15px 0;
+    background: rgba(255,255,255,.05);
+    background: radial-gradient(to bottom left,rgba(255,255,255,.3),rgba(255,255,255,.1));
+    background: -webkit-radial-gradient(top right,rgba(255,255,255,.2),rgba(255,255,255,0));
+    //color: #999;
+    border: 1px solid #333;
+    border-radius: 1em;
+    line-height: 1.5em;
+    overflow: hidden;
+}
+  /**/
+  
+.sqs-block-html.sqs-background-enabled {
+    border-radius: 1em;
+    border: 1px solid rgba(255,255,255,.5);
+    background: radial-gradient(circle,rgba(20,20,20,.8) 0,rgba(20,20,20,.5) 100%);
+    padding: 20px;
+    box-shadow: 5px 5px 15px 0 rgba(0,0,0,.7);
+}
+  .sqs-block-html.sqs-background-enabled h4, .sqs-block-html.sqs-background-enabled h3, .sqs-block-html.sqs-background-enabled h2, .sqs-block-html.sqs-background-enabled h1, .sqs-block-html.sqs-background-enabled p{
+	color: #fff !important;
+}
+  .sqs-block-html.sqs-background-enabled h1 {
+	font-size: 22px !important;
+}
+  .section-background img{
+    background-image: linear-gradient(to right,#000,#000 10%,rgba(0,0,0,0) 35%,rgba(0,0,0,0) 65%,#000 90%,#000);
+}
+  .sqs-block-markdown {
+    max-width: unset !important;
+    background: unset !important;
+    border-top: unset !important;
+    border: unset !important;
+    border-radius: 0 !important;
+    padding: 0px !important;
+    margin: unset !important;
+    text-align: center;
+}
