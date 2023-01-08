@@ -1,6 +1,9 @@
 .portfolio-text {
     padding: 10px 30px 30px 30px !important;
 }
+.portfolio-title {
+    color: #5899a3 !important;
+}
 .portfolio-grid-basic .grid-item {
     font-size: 14px;
     margin: 15px 0 15px 0;
